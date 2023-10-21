@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/luanferreirab/Projeto-Marvel-/blob/main/assets/projeto-marvel.png" width="100%" />
+  <img src="https://github.com/luanferreirab/Projeto-Marvel-/blob/main/src/imagens/projeto-marvel.png" width="100%" />
 </p>
 
 ## 💻 Projeto
